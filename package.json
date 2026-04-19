@@ -1,0 +1,13 @@
+{
+  "name": "GITHUB",
+  "version": "1.0.0",
+  "description": "Personal GitHub profile showcasing projects, skills, and achievements.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo 'Dev script not configured yet'",
+    "start": "echo 'Start script not configured yet'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
